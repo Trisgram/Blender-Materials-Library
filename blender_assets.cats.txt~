@@ -6,6 +6,12 @@
 
 VERSION 1
 
+f7507c20-d0b3-4694-9f8d-c8d466af116d:Bricks:Bricks
 6afd703d-aaa1-418f-8786-6ccfc510d02e:CleanMetals:CleanMetals
+23340503-a8dc-4c54-b8d9-d8a9430d67d2:Glass:Glass
+feb8fe46-dde7-4b5d-8e5b-60f85977986c:HardGrounds:HardGrounds
+ee50e7e6-4ca1-412a-a9a1-17375fac5437:Plastics:Plastics
 46e6fdbc-235a-47be-bb4c-f99c6d4aeece:RustedMetals:RustedMetals
-8e256433-a6c7-4d8d-a273-685e78eedf5a:TileableWoods:TileableWoods
+7c072a67-d85f-4dda-a948-bb7975608904:Tiles:Tiles
+a74592fa-fbf0-477a-8524-41954ea1ad79:WallMaterials:WallMaterials
+8e256433-a6c7-4d8d-a273-685e78eedf5a:Woods:Woods
